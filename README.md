@@ -3,8 +3,8 @@
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Netlify Link](https://qrcode-vitthal.netlify.app/)
+- Solution URL: [Github](https://github.com/akash-agasur/akash-single-price-flexbox)
+- Live Site URL: [vercel Link](https://akash-single-price-flexbox-gdq6.vercel.app/)
 
 ### ScreenShot
 
@@ -13,7 +13,7 @@
 
 ### Author
 
-- [Akash-Agasur](https://www.linkedin.com/in/vitthal-korvan/)
+- [Akash-Agasur](https://www.linkedin.com/in/akash--agasur/)
 
 
 ### Built with
